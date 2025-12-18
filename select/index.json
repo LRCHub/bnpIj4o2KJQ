@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夕凪、某、花惑い",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-18T15:55:49.006576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_夕凪、某、花惑い_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_夕凪、某、花惑い_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い (傍晚风平浪静、某处、烟火)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_夕凪、某、花惑い_(傍晚风平浪静、某处、烟火)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い (Evening calm,Somewhere,Fireworks)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_夕凪、某、花惑い_(Evening_calm,Somewhere,Fireworks)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い - Evening calm,Somewhere,Fireworks",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_夕凪、某、花惑い_-_Evening_calm,Somewhere,Fireworks_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕凪、某、花惑い",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_夕凪、某、花惑い_ヨルシカ.txt"
+    }
+  ]
+}
